@@ -1,0 +1,3 @@
+/home/pi/文档/CPPpropjects/asyn-logs/build/CMakeFiles/rebuild_cache.dir
+/home/pi/文档/CPPpropjects/asyn-logs/build/CMakeFiles/edit_cache.dir
+/home/pi/文档/CPPpropjects/asyn-logs/build/CMakeFiles/Log_level.dir
