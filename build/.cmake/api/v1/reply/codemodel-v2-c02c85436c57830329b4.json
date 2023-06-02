@@ -18,7 +18,7 @@
 					]
 				}
 			],
-			"name" : "",
+			"name" : "Debug",
 			"projects" : 
 			[
 				{
@@ -38,7 +38,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Log_level::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Log_level-b9ce5fd7b48cce572a67.json",
+					"jsonFile" : "target-Log_level-Debug-efab7030ab4323645db3.json",
 					"name" : "Log_level",
 					"projectIndex" : 0
 				}

@@ -35,7 +35,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-pthread  "
+					"fragment" : "-pthread -g  "
 				}
 			],
 			"language" : "CXX",
@@ -53,7 +53,7 @@
 		"commandFragments" : 
 		[
 			{
-				"fragment" : "-pthread",
+				"fragment" : "-pthread -g",
 				"role" : "flags"
 			},
 			{

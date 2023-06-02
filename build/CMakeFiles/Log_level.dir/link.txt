@@ -1,1 +1,1 @@
-/usr/bin/g++  -pthread  -rdynamic CMakeFiles/Log_level.dir/test.cpp.o CMakeFiles/Log_level.dir/log_level/log1.cpp.o CMakeFiles/Log_level.dir/buffer/buffer.cpp.o  -o Log_level 
+/usr/bin/g++  -pthread -g  -rdynamic CMakeFiles/Log_level.dir/test.cpp.o CMakeFiles/Log_level.dir/log_level/log1.cpp.o CMakeFiles/Log_level.dir/buffer/buffer.cpp.o  -o Log_level 

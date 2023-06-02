@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/pi/文档/CPPpropjects/asyn-logs/build",
+  "command": "/usr/bin/g++    -pthread -g   -o CMakeFiles/Log_level.dir/test.cpp.o -c /home/pi/文档/CPPpropjects/asyn-logs/test.cpp",
+  "file": "/home/pi/文档/CPPpropjects/asyn-logs/test.cpp"
+},
+{
+  "directory": "/home/pi/文档/CPPpropjects/asyn-logs/build",
+  "command": "/usr/bin/g++    -pthread -g   -o CMakeFiles/Log_level.dir/log_level/log1.cpp.o -c /home/pi/文档/CPPpropjects/asyn-logs/log_level/log1.cpp",
+  "file": "/home/pi/文档/CPPpropjects/asyn-logs/log_level/log1.cpp"
+},
+{
+  "directory": "/home/pi/文档/CPPpropjects/asyn-logs/build",
+  "command": "/usr/bin/g++    -pthread -g   -o CMakeFiles/Log_level.dir/buffer/buffer.cpp.o -c /home/pi/文档/CPPpropjects/asyn-logs/buffer/buffer.cpp",
+  "file": "/home/pi/文档/CPPpropjects/asyn-logs/buffer/buffer.cpp"
+}
+]
